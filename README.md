@@ -2,7 +2,8 @@
 
 Welcome to the **C DSA Repository** — a comprehensive collection of **data structures** and **algorithm implementations** written in **C**.  
 This repository is designed to help students, developers, and interviewees understand and master the fundamentals of DSA through clean, well-documented C code examples.
-For all my juniors and my mates who need a helping hand in C, all codes are simple with comments for better understanding. Give a star and show support. <<< WORK IN PROGRESS >>>
+For all my juniors and my mates who need a helping hand in C, all codes are simple with comments for better understanding. Give a star and show support.
+<<< WORK IN PROGRESS >>>
 
 ---
 
