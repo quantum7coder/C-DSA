@@ -1,4 +1,5 @@
 #include <stdio.h>//Standard input-output header file
+#include <stdlib.h>//Standard library header file
 void main(){
     int *ptr;
     int n, i;
