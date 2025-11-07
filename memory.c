@@ -1,6 +1,5 @@
 #include <stdio.h>//Standard input-output header file
-#include <stdlib.h>//Standard library header file
-int main(){
+void main(){
     int *ptr;
     int n, i;
 
@@ -31,6 +30,4 @@ int main(){
 
     // Freeing the allocated memory
     free(ptr);
-
-    return 0;
 }
