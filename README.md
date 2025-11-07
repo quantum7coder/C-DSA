@@ -7,6 +7,19 @@ This repository is designed to help students, developers, and interviewees under
 
 ## 📚 Contents
 
+### ⚙️ Algorithms
+- **Sorting**
+  - Bubble Sort  
+  - Insertion Sort  
+  - Selection Sort  
+  - Merge Sort  
+  - Quick Sort  
+  - Heap Sort  
+- **Searching**
+  - Linear Search  
+  - Binary Search
+
+
 ### 🏗 Data Structures
 - **Arrays**
 - **Linked Lists**
@@ -33,17 +46,7 @@ This repository is designed to help students, developers, and interviewees under
   - Hash Table with Chaining  
   - Open Addressing  
 
-### ⚙️ Algorithms
-- **Sorting**
-  - Bubble Sort  
-  - Insertion Sort  
-  - Selection Sort  
-  - Merge Sort  
-  - Quick Sort  
-  - Heap Sort  
-- **Searching**
-  - Linear Search  
-  - Binary Search  
+
 - **Graph Algorithms**
   - Dijkstra’s Algorithm  
   - Kruskal’s Algorithm  
