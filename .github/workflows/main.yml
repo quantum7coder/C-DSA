@@ -4,6 +4,6 @@
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
-```bash
+'''bash
 git clone https://github.com/your-username/C-DSA.git
 cd C-DSA
