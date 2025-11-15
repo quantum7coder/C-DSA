@@ -16,7 +16,6 @@ void bubbleSort(int arr[], int n) {
                 swapped = 1;
             }
         }
-        // If no swaps happened, the array is already sorted
         if (swapped == 0)
             break;
     }
