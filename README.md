@@ -23,18 +23,17 @@ For all my juniors and my mates who need a helping hand in C, all codes are simp
 
 
 ### 🏗 Data Structures
-- **Arrays**
-- **Linked Lists**
-  - Singly Linked List  
-  - Doubly Linked List  
-  - Circular Linked List  
 - **Stacks**
   - Array Implementation  
   - Linked List Implementation  
 - **Queues**
   - Linear Queue  
   - Circular Queue  
-  - Priority Queue  
+  - Priority Queue
+- **Linked Lists**
+  - Singly Linked List  
+  - Doubly Linked List  
+  - Circular Linked List  
 - **Trees**
   - Binary Tree  
   - Binary Search Tree (BST)  
