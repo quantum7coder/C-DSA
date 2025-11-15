@@ -1,14 +1,11 @@
 #include <stdio.h>
-
 // Function to perform Bubble Sort for ascending order
 void bubbleSort(int arr[], int n) {
     int i, j, temp;
     int swapped;
-
     // Outer loop for each pass 
     for (i = 0; i < n - 1; i++) {
         swapped = 0; // Track if any swap happened
-
         // Inner loop for comparing adjacent elements
         for (j = 0; j < n - i - 1; j++) {
             if (arr[j] > arr[j + 1]) {
@@ -19,7 +16,6 @@ void bubbleSort(int arr[], int n) {
                 swapped = 1;
             }
         }
-
         // If no swaps happened, the array is already sorted
         if (swapped == 0)
             break;
@@ -33,7 +29,6 @@ void printArray(int arr[], int n) {
     }
     printf("\n");
 }
-
 int main() {
     int n;
     printf("============================================== Performing Bubble Sort on an array ========================================================\n");
